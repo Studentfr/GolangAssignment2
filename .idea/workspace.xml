@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ec253ea-61be-4be0-9c7b-a848e0b227ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1sf8EDvzM4KbTeitK2R8HbHjdMT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestSearch in sungat (5)">
+    <configuration name="TestSearch in sungat (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw3_bench" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="sungat" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSearch\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSearch in sungat (3)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw3_bench" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="sungat" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSearch\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSearch in sungat (4)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw3_bench" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="sungat" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSearch\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSearch in sungat (5)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw3_bench" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="sungat" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSearch\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSearch in sungat" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="hw3_bench" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="sungat" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSearch\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestSearch in sungat (5)" />
+        <item itemvalue="Go Test.TestSearch in sungat" />
+        <item itemvalue="Go Test.TestSearch in sungat (4)" />
+        <item itemvalue="Go Test.TestSearch in sungat (3)" />
+        <item itemvalue="Go Test.TestSearch in sungat (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="945" y="254" key="#Go_Modules" timestamp="1621685155836">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="945" y="254" key="#Go_Modules/0.0.1536.834@0.0.1536.834" timestamp="1621685155836" />
+    <state x="502" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621257202461">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="502" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1621257202461" />
+    <state width="459" height="438" key="DebuggerActiveHint" timestamp="1621696541617">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="459" height="438" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1621696541617" />
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1621697536738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1621697536738" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1621697536737">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1621697536737" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1621697536737">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1621697536737" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1621697536737">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1621697536737" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1621697536738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1621697536738" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1621697536738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1621697536738" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1621697536738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1621697536738" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1621697536738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1621697536738" />
+    <state width="775" height="424" key="XDebugger.FullValuePopup" timestamp="1621696740053">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="775" height="424" key="XDebugger.FullValuePopup/0.0.1536.834@0.0.1536.834" timestamp="1621696740053" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main_test.go</url>
+          <line>24</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoTestRunConfiguration">
+        <watch expression="*(*&quot;string&quot;)(824637301816)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
